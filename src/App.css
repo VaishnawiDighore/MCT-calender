@@ -1,0 +1,30 @@
+.App {
+background-color: rgb(156, 225, 202);
+margin: 0px;
+
+}
+.container{
+  width:60%;
+  margin-left: 15%;
+  margin-right: 15%;
+  border: 40px solid rgb(58, 79, 119);
+  border-radius: 15px;
+  /* background-color: rgb(194, 194, 36); */
+}
+button{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(223, 181, 11);
+
+}
+.data {
+  padding-left: 30px;
+  background-color: rgb(202, 225, 225);
+border-top: 20px solid rgb(103, 112, 119); 
+border-bottom: 20px solid rgb(52, 57, 61); 
+}
+p{
+  /* font: weight 3px; */
+  font-family: cursive;
+  /* padding-left: 10px; */
+}
